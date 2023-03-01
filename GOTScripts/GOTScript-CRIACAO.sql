@@ -21,7 +21,6 @@ USE `gameofthrones` ;
 -- Table `gameofthrones`.`casas`
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `gameofthrones`.`casas` (
- `id` INT AUTO_INCREMENT,
   `Nome_casa` TEXT NULL DEFAULT NULL,
   `Regiao` TEXT NULL DEFAULT NULL)
 ENGINE = InnoDB
@@ -33,7 +32,6 @@ COLLATE = utf8mb4_0900_ai_ci;
 -- Table `gameofthrones`.`episodios`
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `gameofthrones`.`episodios` (
-`id` INT AUTO_INCREMENT,
   `Temporada` INT NULL DEFAULT NULL,
   `Episodio` INT NULL DEFAULT NULL,
   `Titulo` TEXT NULL DEFAULT NULL,
@@ -58,21 +56,14 @@ COLLATE = utf8mb4_0900_ai_ci;
 
 
 -- -----------------------------------------------------
--- Table `gameofthrones`.`pesonagens`
+-- Table `gameofthrones`.`personagens`
 -- -----------------------------------------------------
-CREATE TABLE IF NOT EXISTS `gameofthrones`.`pesonagens` (
- `id` INT AUTO_INCREMENT,
+CREATE TABLE IF NOT EXISTS `gameofthrones`.`personagens` (
   `Personagem` TEXT NULL DEFAULT NULL,
   `Ator/Atriz` TEXT NULL DEFAULT NULL,
   `Aparicoes` INT NULL DEFAULT NULL,
   `Primeira_aparicao` INT NULL DEFAULT NULL,
-  `Ultima_aparicao` INT NULL DEFAULT NULL,
-  INDEX `fk_pesonagens_casas_idx` (`Personagem` ASC) VISIBLE,
-  CONSTRAINT `fk_pesonagens_casas`
-    FOREIGN KEY (`Personagem`)
-    REFERENCES `gameofthrones`.`casas` (`Nome_casa`)
-    ON DELETE NO ACTION
-    ON UPDATE NO ACTION)
+  `Ultima_aparicao` INT NULL DEFAULT NULL)
 ENGINE = InnoDB
 DEFAULT CHARACTER SET = utf8mb4
 COLLATE = utf8mb4_0900_ai_ci;
