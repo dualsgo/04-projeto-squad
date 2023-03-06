@@ -16,37 +16,37 @@ As entidades utilizadas foram episodios, personagens e casas (Extraidas dos arqu
 - ### ```` Q1 - Quantos episódios e temporadas a série possui? Quantos episódios cada temporada possui? Qual foi a audiência geral que a série alcançou por temporada? ````
 
 <br>
-<img src="./GOTscripts/Consultas/Q1.png"><br><br><hr>
+<img src="./Scripts/Consultas/Q1.png"><br><br><hr>
 
 - ### ```` Q2 - Quais são os 5 episódios com as maiores avaliações, quem dirigiu e qual audiência alcançou nos EUA? ````
 
 <br>
-<img src="./GOTscripts/Consultas/Q2.png"><br><br><hr>
+<img src="./Scripts/Consultas/Q2.png"><br><br><hr>
 
 - ### ````Q3 - Quais são os episódios com maior tempo de duração (em minutos)?````
 
 <br>
-<img src="./GOTscripts/Consultas/Q3.png"><br><br><hr>
+<img src="./Scripts/Consultas/Q3.png"><br><br><hr>
 
 - ### ````Q4 - Quais os diretores com mais episódios dirigidos````
 
 <br>
-<img src="./GOTscripts/Consultas/Q4.png"><br><br><hr>
+<img src="./Scripts/Consultas/Q4.png"><br><br><hr>
 
 - ### ````Q5 - Quais são os 5 episódios mais assistidos nos Estados Unidos (Em milhões)?````
 
 <br>
-<img src="./GOTscripts/Consultas/Q5.png"><br><br><hr>
+<img src="./Scripts/Consultas/Q5.png"><br><br><hr>
 
 - ### ````Q6 - Quantas casas e regiões existem e quais são as regiões com mais casas?````
 
 <br>
-<img src="./GOTscripts/Consultas/Q6.png"><br><br><hr>
+<img src="./Scripts/Consultas/Q6.png"><br><br><hr>
 
 - ### ````Q7 - Quais são so personagens com mais participações em episódios e qual a porcentagem que esse número representa?````
 
 <br>
-<img src="./GOTscripts/Consultas/Q7.png"><br><br><hr>
+<img src="./Scripts/Consultas/Q7.png"><br><br><hr>
 
 ## EXECUTAR
 
