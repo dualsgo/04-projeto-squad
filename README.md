@@ -48,6 +48,11 @@ As entidades utilizadas foram episodios, personagens e casas (Extraidas dos arqu
 <br>
 <img src="./GOTscripts/Consultas/Q7.png"><br><br><hr>
 
+## EXECUTAR
+
+Para rodar o projeto, será necessário ter o SQL WORCHBENCH instalado e configurado.
+Baixar o arquivo de script de criação das entidades e registros.
+
 ## TECNOLOGIAS UTILIZADAS
 
 - SQL WORKBENCH
@@ -59,10 +64,10 @@ As entidades utilizadas foram episodios, personagens e casas (Extraidas dos arqu
 ## SQUAD
 
 - `Colaborador - IGOR`<br><br>
-  ![GITHUB](https://img.icons8.com/ios-filled/1x/github.png)[Github](LINK)<br><br><hr>
+  ![GITHUB](https://img.icons8.com/ios-filled/1x/github.png)[Github](https://github.com/Igorzpqd)<br><br><hr>
 - `Pessoa Gestora de Gente e Engajamento - MAYCON`<br><br>
-![GITHUB](https://img.icons8.com/ios-filled/1x/github.png)[Github](LINK)<br><br><hr>
+![GITHUB](https://img.icons8.com/ios-filled/1x/github.png)[Github](https://github.com/dualsgo)<br><br><hr>
 - `Pessoa Co Facilitadora - ORLANDO`<br><br>
-![GITHUB](https://img.icons8.com/ios-filled/1x/github.png)[Github](LINK)<br><br><hr>
+![GITHUB](https://img.icons8.com/ios-filled/1x/github.png)[Github](https://github.com/Orl-andoJr)<br><br><hr>
 - `Pessoa Gestora do Conhecimento - RIAN`<br><br>
-![GITHUB](https://img.icons8.com/ios-filled/1x/github.png)[Github](LINK)
+![GITHUB](https://img.icons8.com/ios-filled/1x/github.png)[Github](https://github.com/Klaus7067)
