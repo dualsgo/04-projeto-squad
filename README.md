@@ -1,5 +1,6 @@
-# PROJETO EM GRUPO Módulo 4 - Visualizando a situação
+# Projeto em Squad - Módulo 4 "Visualizando a situação"
 
+BOOTCAMP PROGRAMADORES CARIOCAS - Resilia Educação, SENAC RJ e Prefeitura do Rio de Janeiro
 ## CONTEXTO E SOBRE O QUE É PARA FAZER
 
 Temos um problema e precisaremos da sua ajuda para resolver! Acumulamos alguns conjuntos de dados e não conseguimos ter uma visão padronizada desses dados.
